@@ -2,5 +2,9 @@ El padrino
 El padrino 2
 El nombre de la rosa
 Indiana Jones y la última cruzada
+<<<<<<< HEAD
 La vida de los otros
 El caballero oscuro
+=======
+Sin perdon
+>>>>>>> 400b755a9a3fe8e48042c0bd584718c19e8a18b4
